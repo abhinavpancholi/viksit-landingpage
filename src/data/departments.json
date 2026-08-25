@@ -1,0 +1,188 @@
+{
+  "departments": [
+    {
+      "id": "wcd",
+      "name": "Women and Child Development",
+      "description": "Health, nutrition, awareness, and empowerment programs.",
+      "icon": "heart-handshake",
+      "url": "https://viksit-wcd-dashboard.netlify.app/",
+      "status": "live"
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture",
+      "description": "Crop production, irrigation, and agricultural development programs.",
+      "icon": "sprout",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "animal-husbandry",
+      "name": "Animal Husbandry",
+      "description": "Livestock management, dairy development, and veterinary services.",
+      "icon": "heart",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "science-technology",
+      "name": "Science and Technology",
+      "description": "Research, innovation, and technological advancement initiatives.",
+      "icon": "atom",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Primary and secondary education, literacy, and school infrastructure.",
+      "icon": "graduation-cap",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "energy-petrochemicals",
+      "name": "Energy and Petrochemicals",
+      "description": "Power generation, renewable energy, and petrochemical industries.",
+      "icon": "zap",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "forest-environment",
+      "name": "Forest and Environment",
+      "description": "Forest conservation, wildlife protection, and environmental sustainability.",
+      "icon": "trees",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "gad",
+      "name": "General Administration Department",
+      "description": "Administrative coordination, governance reforms, and state-level policy.",
+      "icon": "settings",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "health",
+      "name": "Health and Family Welfare",
+      "description": "Healthcare delivery, disease prevention, and family welfare programs.",
+      "icon": "heart-pulse",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "higher-education",
+      "name": "Higher Education",
+      "description": "Universities, colleges, and technical education institutions.",
+      "icon": "book-open",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "home",
+      "name": "Home Department",
+      "description": "Law enforcement, public safety, and internal security.",
+      "icon": "shield",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "industries-mining",
+      "name": "Industries and Mining",
+      "description": "Industrial growth, MSME support, and mineral resource management.",
+      "icon": "factory",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "labor",
+      "name": "Labor Department",
+      "description": "Worker welfare, employment services, and labor regulations.",
+      "icon": "wrench",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "panchayat",
+      "name": "Panchayat Department",
+      "description": "Rural governance, gram panchayat development, and decentralization.",
+      "icon": "landmark",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "ports-transport",
+      "name": "Ports and Transport",
+      "description": "Port infrastructure, logistics, and public transportation networks.",
+      "icon": "ship",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "revenue",
+      "name": "Revenue Department",
+      "description": "Land records, revenue administration, and disaster management.",
+      "icon": "banknote",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "roads-buildings",
+      "name": "Roads and Buildings",
+      "description": "Road infrastructure, government construction, and maintenance.",
+      "icon": "hammer",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "sports-youth-culture",
+      "name": "Sports, Youth and Culture",
+      "description": "Sports promotion, youth empowerment, and cultural heritage.",
+      "icon": "trophy",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "tourism",
+      "name": "Tourism Department",
+      "description": "Tourism promotion, heritage conservation, and hospitality development.",
+      "icon": "compass",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "tribal",
+      "name": "Tribal Department",
+      "description": "Tribal welfare, education, and livelihood support programs.",
+      "icon": "users",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "urban-development",
+      "name": "Urban Development",
+      "description": "City planning, urban infrastructure, and smart city initiatives.",
+      "icon": "building",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "water-resource",
+      "name": "Water Resource Department",
+      "description": "Dam management, irrigation networks, and water resource planning.",
+      "icon": "droplets",
+      "url": "",
+      "status": "coming-soon"
+    },
+    {
+      "id": "water-supply",
+      "name": "Water Supply Department",
+      "description": "Drinking water supply, sanitation, and water quality management.",
+      "icon": "droplet",
+      "url": "",
+      "status": "coming-soon"
+    }
+  ]
+}
