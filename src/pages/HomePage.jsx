@@ -21,7 +21,7 @@ export default function HomePage() {
       <section className="hero" id="hero-section">
         <div className="hero__glow hero__glow--1" />
         <div className="hero__glow hero__glow--2" />
-        
+
         <div className="hero__inner">
           <div className="hero__content">
             <span className="hero__badge">
@@ -34,7 +34,7 @@ export default function HomePage() {
             </h2>
             <p className="hero__sub">
               Track real-time progress across pillars, themes, and macro goals
-              powering Gujarat's journey towards Viksit Rajya&nbsp;@2047.
+              powering Gujarat's journey towards Viksit Gujarat&nbsp;@2047.
             </p>
           </div>
 
@@ -145,7 +145,7 @@ export default function HomePage() {
         <div className="vision-banner__content">
           <Lightbulb strokeWidth={1.8} className="vision-banner__icon" />
           <div className="vision-banner__text-wrap">
-            <h3 className="vision-banner__title">Viksit Rajya @2047 Vision</h3>
+            <h3 className="vision-banner__title">Viksit Gujarat @2047 Vision</h3>
             <p className="vision-banner__text">
               A comprehensive framework to transform Gujarat into a developed state by 2047 —
               driving inclusive growth, citizen welfare, and sustainable development
