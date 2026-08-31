@@ -796,7 +796,7 @@ html, body, #root {
 }
 
 .dept-card--coming-soon {
-  opacity: 0.65;
+  opacity: 0.70;
   cursor: default;
   background: var(--card-surface);
 }

@@ -9,6 +9,14 @@
       "status": "live"
     },
     {
+      "id": "water-resource",
+      "name": "Water Resource Department",
+      "description": "Dam management, irrigation networks, and water resource planning.",
+      "icon": "droplets",
+      "url": "https://viksit-wrd-dashboard.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -165,14 +173,6 @@
       "name": "Urban Development",
       "description": "City planning, urban infrastructure, and smart city initiatives.",
       "icon": "building",
-      "url": "",
-      "status": "coming-soon"
-    },
-    {
-      "id": "water-resource",
-      "name": "Water Resource Department",
-      "description": "Dam management, irrigation networks, and water resource planning.",
-      "icon": "droplets",
       "url": "",
       "status": "coming-soon"
     },
