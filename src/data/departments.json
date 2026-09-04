@@ -17,6 +17,14 @@
       "status": "live"
     },
     {
+      "id": "water-supply",
+      "name": "Water Supply Department",
+      "description": "Drinking water supply, sanitation, and water quality management.",
+      "icon": "droplet",
+      "url": "https://viksit-wsd.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -173,14 +181,6 @@
       "name": "Urban Development",
       "description": "City planning, urban infrastructure, and smart city initiatives.",
       "icon": "building",
-      "url": "",
-      "status": "coming-soon"
-    },
-    {
-      "id": "water-supply",
-      "name": "Water Supply Department",
-      "description": "Drinking water supply, sanitation, and water quality management.",
-      "icon": "droplet",
       "url": "",
       "status": "coming-soon"
     }
