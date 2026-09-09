@@ -25,6 +25,14 @@
       "status": "live"
     },
     {
+      "id": "tribal",
+      "name": "Tribal Department",
+      "description": "Tribal welfare, education, and livelihood support programs.",
+      "icon": "users",
+      "url": "https://viksit-tribal.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -165,14 +173,6 @@
       "name": "Tourism Department",
       "description": "Tourism promotion, heritage conservation, and hospitality development.",
       "icon": "compass",
-      "url": "",
-      "status": "coming-soon"
-    },
-    {
-      "id": "tribal",
-      "name": "Tribal Department",
-      "description": "Tribal welfare, education, and livelihood support programs.",
-      "icon": "users",
       "url": "",
       "status": "coming-soon"
     },
