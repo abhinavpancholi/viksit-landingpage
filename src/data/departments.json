@@ -33,6 +33,14 @@
       "status": "live"
     },
     {
+      "id": "forest-environment",
+      "name": "Forest and Environment",
+      "description": "Forest conservation, wildlife protection, and environmental sustainability.",
+      "icon": "trees",
+      "url": "https://viksit-fne.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -69,14 +77,6 @@
       "name": "Energy and Petrochemicals",
       "description": "Power generation, renewable energy, and petrochemical industries.",
       "icon": "zap",
-      "url": "",
-      "status": "coming-soon"
-    },
-    {
-      "id": "forest-environment",
-      "name": "Forest and Environment",
-      "description": "Forest conservation, wildlife protection, and environmental sustainability.",
-      "icon": "trees",
       "url": "",
       "status": "coming-soon"
     },
