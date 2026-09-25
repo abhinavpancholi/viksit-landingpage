@@ -14,18 +14,18 @@ export default function Header() {
             alt="India emblem with Gujarat focus"
             className="site-header__logo-img"
           />
-          <img
+          {/* <img
             src="/gritlogo.jpg"
             alt="GRIT — Gujarat Rajya Institution for Transformation logo"
             className="site-header__logo-img site-header__logo-img--grit"
-          />
+          /> */}
         </div>
 
         {/* Title text */}
         <div className="site-header__text">
-          <h1 className="site-header__title">VIKSIT GUJARAT @ 2047</h1>
+          <h1 className="site-header__title">VIKSIT RAJYA @ 2047</h1>
           <p className="site-header__subtitle">
-            Gujarat Rajya Institution for Transformation (GRIT)
+            Viksit Rajya Institution for Transformation (VRIT)
           </p>
         </div>
       </div>
