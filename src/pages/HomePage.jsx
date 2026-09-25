@@ -29,8 +29,8 @@ export default function HomePage() {
               Vision 2047
             </span>
             <h2 className="hero__heading">
-              Viksit Rajya Transformation<br />
-              <span className="hero__heading-accent">Dashboard Portal</span>
+              Viksit Rajya<br />
+              <span className="hero__heading-accent">Monitoring Platform</span>
             </h2>
             <p className="hero__sub">
               Track real-time progress across pillars, themes, and macro goals
@@ -96,7 +96,7 @@ export default function HomePage() {
               <div className="cta-card__header-text">
                 <h3 className="cta-card__title">Macro goals dashboard</h3>
                 <p className="cta-card__desc">
-                  Track progress across every pillar, theme, and macro goal with interactive charts and status indicators.
+                  Unified view of the State's progress towards its long-term development aspirations, tracking key outcomes, trends, and milestones over time.
                 </p>
               </div>
             </div>
@@ -124,7 +124,7 @@ export default function HomePage() {
               <div className="cta-card__header-text">
                 <h3 className="cta-card__title">Department-wise dashboards</h3>
                 <p className="cta-card__desc">
-                  Browse dedicated dashboards with KPIs, schemes, and progress reports for each state department.
+                  A comprehensive view of departmental performance, enabling stakeholders to track key indicators, monitor progress, and drive timely action towards defined goals.
                 </p>
               </div>
             </div>

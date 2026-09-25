@@ -25,7 +25,7 @@ export default function Header() {
         <div className="site-header__text">
           <h1 className="site-header__title">VIKSIT RAJYA @ 2047</h1>
           <p className="site-header__subtitle">
-            Viksit Rajya Institution for Transformation (VRIT)
+            Viksit Rajya Monitoring Platform
           </p>
         </div>
       </div>
