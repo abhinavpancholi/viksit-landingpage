@@ -84,7 +84,7 @@ export default function HomePage() {
           <a
             id="cta-macro-goals"
             className="cta-card cta-card--purple"
-            href="https://viksit-dashboard.netlify.app/"
+            href="https://viksit-macrogoals.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
