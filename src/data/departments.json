@@ -41,6 +41,14 @@
       "status": "live"
     },
     {
+      "id": "labor",
+      "name": "Labor Department",
+      "description": "Worker welfare, employment services, and labor regulations.",
+      "icon": "wrench",
+      "url": "https://viksit-labor.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -117,14 +125,6 @@
       "name": "Industries and Mining",
       "description": "Industrial growth, MSME support, and mineral resource management.",
       "icon": "factory",
-      "url": "",
-      "status": "coming-soon"
-    },
-    {
-      "id": "labor",
-      "name": "Labor Department",
-      "description": "Worker welfare, employment services, and labor regulations.",
-      "icon": "wrench",
       "url": "",
       "status": "coming-soon"
     },
