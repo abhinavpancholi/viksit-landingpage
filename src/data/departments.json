@@ -49,6 +49,14 @@
       "status": "live"
     },
     {
+      "id": "animal-husbandry",
+      "name": "Animal Husbandry",
+      "description": "Livestock management, dairy development, and veterinary services.",
+      "icon": "heart",
+      "url": "https://viksit-dah.netlify.app/",
+      "status": "live"
+    },
+    {
       "id": "agriculture",
       "name": "Agriculture",
       "description": "Crop production, irrigation, and agricultural development programs.",
@@ -56,14 +64,7 @@
       "url": "",
       "status": "coming-soon"
     },
-    {
-      "id": "animal-husbandry",
-      "name": "Animal Husbandry",
-      "description": "Livestock management, dairy development, and veterinary services.",
-      "icon": "heart",
-      "url": "",
-      "status": "coming-soon"
-    },
+    
     {
       "id": "science-technology",
       "name": "Science and Technology",
